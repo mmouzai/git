@@ -1,0 +1,2 @@
+jing : pour screenshot dans issue
+stackedit : editeur en ligne pour fichier readme
